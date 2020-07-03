@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to UniRank
 
-You can use the [editor on GitHub](https://github.com/UralanVDH/UniRank/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+UniRank allows users such as universities and colleges to quickly assess a common admissions criterium: the ranking of an applicant's alma mater.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How does it work?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+UniRank automatically extracts university and college names from a file or search term and matches it to our database of national, regional and global rankings.
 
 ```markdown
 Syntax highlighted code block
